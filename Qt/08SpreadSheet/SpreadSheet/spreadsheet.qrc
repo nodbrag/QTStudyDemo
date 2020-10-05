@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/SpreadSheet">
+        <file>Resources/images/copy.png</file>
+        <file>Resources/images/cut.png</file>
+        <file>Resources/images/find.png</file>
+        <file>Resources/images/gotocell.png</file>
+        <file>Resources/images/icon.png</file>
+        <file>Resources/images/new.png</file>
+        <file>Resources/images/open.png</file>
+        <file>Resources/images/paste.png</file>
+        <file>Resources/images/save.png</file>
+    </qresource>
+</RCC>

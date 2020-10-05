@@ -1,0 +1,13 @@
+QPushButton#btn_Test
+{
+	border-image: url(":/btn_play_n.png");
+}
+QPushButton#btn_Test:hover{
+	border-image: url(":/btn_play_h.png");
+}
+QPushButton#btn_Test:pressed{
+	border-image: url(":/btn_play_p.png");
+}
+QPushButton#btn_Test:checked{
+	border-image: url(":/btn_pause_p.png");
+}

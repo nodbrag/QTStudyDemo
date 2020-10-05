@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/MessageTipForm/bg.png</file>
+        <file>res/app.ico</file>
+    </qresource>
+</RCC>

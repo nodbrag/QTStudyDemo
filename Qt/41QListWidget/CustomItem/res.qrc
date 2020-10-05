@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/close_hover.png</file>
+        <file>res/close_normal.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/complete.png</file>
+        <file>res/download_press.png</file>
+        <file>res/download_normal.png</file>
+    </qresource>
+</RCC>
